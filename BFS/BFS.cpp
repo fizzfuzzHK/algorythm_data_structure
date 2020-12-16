@@ -1,3 +1,5 @@
+//https://qiita.com/drken/items/996d80bcae64649a6580を参照
+
 #include <iostream>
 #include <vector>
 #include <queue>
