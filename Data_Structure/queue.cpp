@@ -32,7 +32,6 @@ public:
         int t = arr[head];
         head = (head+1)%length;
         return t;
-        
     }
 
     bool isEmpty(){
