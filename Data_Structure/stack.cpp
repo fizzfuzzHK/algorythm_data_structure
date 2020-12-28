@@ -26,11 +26,9 @@ public:
     int pop(){
         if(isEmpty()){
             cout << "error : stack is full" << endl;
-            
         }
         top--;
         return arr[top+1];
-
     }
 
     int size(){
